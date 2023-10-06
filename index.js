@@ -10,7 +10,7 @@ fetch('http://localhost:3000/menu')
             menuItemsDiv.appendChild(span);
             // console.log(menuItemsDiv);
 
-            console.log(menuItem);
+            console.log(menuItem.description);
 
 
 
